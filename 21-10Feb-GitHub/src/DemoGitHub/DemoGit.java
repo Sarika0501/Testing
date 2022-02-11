@@ -11,6 +11,10 @@ public class DemoGit {
 	{
 		System.out.println("m2 method");
 	}
+	public void Austrilia()
+	{
+		System.out.println("Melbourne");
+	}
 	
 	public static void main(String[] args) {
 		
